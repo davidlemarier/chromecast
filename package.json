@@ -1,13 +1,13 @@
 {
   "name": "Chromecast",
   "main": "./lib/chromecast",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": true,
   "description": "Popcorntime.io Plugin Sample using YTS API source",
   "activationEvents": [],
   "repository": {
-      "type": "git",
-      "url": "https://github.com/davidlemarier/chromecast.git"
+    "type": "git",
+    "url": "https://github.com/davidlemarier/chromecast.git"
   },
   "license": "GPL v3",
   "engines": {
