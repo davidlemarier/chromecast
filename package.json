@@ -1,5 +1,5 @@
 {
-  "name": "chromecast2",
+  "name": "chromecast3",
   "main": "./lib/chromecast",
   "version": "0.0.1",
   "private": true,
